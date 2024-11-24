@@ -8,7 +8,7 @@
   <h1>Week[2] Music as Notation</h1>
   
   <p>This week we focused on how music notation is processed by computers and programs such as Musescore. For this week, we put a pdf from our chosen theme into musescore to analyse and turn into playable audio. </p>
-
+  <p>Some problems that Musescore had with translating from a pdf into Musescore format was: Not adding the title and composer, no pedal indications, incorrectly inputting crescendo/diminuendo markings and mistaking some naturals as sharps. These all had to be manually changed
   
 </body>
 </html>
