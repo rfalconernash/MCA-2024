@@ -11,4 +11,4 @@ One potential challenge might be finding legitimate data for a musical work, suc
 
 
 [^1]: 
-[week 2: Notated Music >>](https://katja-andric.github.io/MCA-2019/LabTasks/week2/week2.html)
+[week 2: Notated Music >>](https://github.com/rfalconernash/MCA-2024/blob/master/tasks/Week2.html)
