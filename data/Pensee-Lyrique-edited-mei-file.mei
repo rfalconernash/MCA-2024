@@ -5,8 +5,15 @@
    <meiHead xml:id="m1a43q5o">
       <fileDesc xml:id="fd8kb8w">
          <titleStmt xml:id="t10h4rzv">
-            <title> Pensée lyrique </title>
-            <respStmt />
+            <title> 6 Pensées lyriques </title>
+            <title type="subtitle"> Pensée lyrique
+               <identifier>Op. 11</identifier>
+            </title>
+            <title type="subtitle">Movement V.</title>
+            <composer>
+               <persName role="composer" auth.uri="https://imslp.org/wiki/Category:Bortkiewicz,_Sergei"> Sergei Bortkiewicz </persName>
+            </composer> 
+         </respStmt>
          </titleStmt>
          <pubStmt xml:id="p1dlxumo">
             <date isodate="2024-10-08" type="encoding-date">2024-10-08</date>
