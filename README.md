@@ -8,4 +8,4 @@ high standard and thereore vital metadata like names of composers and editors ca
 way with romantic piano music as during the era of romanticism (around 1800 - 1910), data such as composer, title, date of publishing
 was mostly handwritten and therefore easily lost.
 
-[week 2: Notated Music >>](https://github.com/rfalconernash/MCA-2024/blob/master/tasks/Week2.html)
+[week 2: Notated Music >>](https://github.com/rfalconernash/MCA-2024/blob/master/tasks/week2.html)
