@@ -19,14 +19,14 @@
                <name> Rowena Falconer-Nash</name>
             </respStmt>
           </titleStmt>
-			 <editionStmt>
-            <arranger authURI="https://musescore.com/user/88469251/scores/22372693" authority="MuseScore"> Rowena Falconer-Nash </arranger>
-          	<date> 2024 </date>
-          	<respStmt>
-            	<resp> Published on </resp>
-            	<name> MuseScore.com </name>
-            </respStmt>
-         </editionStmt>
+		<editionStmt>
+            	   <arranger authURI="https://musescore.com/user/88469251/scores/22372693" authority="MuseScore"> Rowena Falconer-Nash </arranger>
+          	      <date> 2024 </date>
+          	      <respStmt>
+            		  <resp> Published on </resp>
+            		  <name> MuseScore.com </name>
+           	      </respStmt>
+        	 </editionStmt>
          <pubStmt xml:id="pyp8qhk">
             <publisher>Rowena</publisher>
             <date isodate="2024-10-08" type="encoding-date">2024</date>
