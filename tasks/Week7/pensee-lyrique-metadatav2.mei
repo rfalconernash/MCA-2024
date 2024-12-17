@@ -14,13 +14,25 @@
                <persName role="composer" auth.uri="https://imslp.org/wiki/Category:Bortkiewicz,_Sergei"> Sergei Bortkiewicz </persName>
             </composer>
             <respStmt>
-                <persName role="uploader" auth.uri="https://imslp.org/wiki/User:JacopoTore"> JacopoTore </persName>
+               <persName role="uploader" auth.uri="https://imslp.org/wiki/User:JacopoTore"> JacopoTore </persName>
+               <resp> Encoded By</resp>
+               <name> Rowena Falconer-Nash</name>
             </respStmt>
           </titleStmt>
-
+			 <editionStmt>
+            <arranger authURI="https://musescore.com/user/88469251/scores/22372693" authority="MuseScore"> Rowena Falconer-Nash </arranger>
+          	<date> 2024 </date>
+          	<respStmt>
+            	<resp> Published on </resp>
+            	<name> MuseScore.com </name>
+            </respStmt>
+         </editionStmt>
          <pubStmt xml:id="pyp8qhk">
-            <publisher>Leipzig: D. Rahter</publisher>
-            <date isodate="2024-10-08" type="encoding-date">2024-10-08</date>
+            <publisher>Rowena</publisher>
+            <date isodate="2024-10-08" type="encoding-date">2024</date>
+            <availability>
+            	<useRestrict authURI="https://creativecommons.org/public-domain/pdm/" authority="Creative Commons"> No Known Copyright </useRestrict>
+          </availability>
          </pubStmt>
       </fileDesc>
       <encodingDesc xml:id="e1b0aql8">
@@ -31,6 +43,11 @@
             </application>
          </appInfo>
       </encodingDesc>
+      <workList>
+         <work>
+            <classification> Romantic Piano </classification>
+         </work>
+      </workList>
    </meiHead>
    <music>
       <body>
