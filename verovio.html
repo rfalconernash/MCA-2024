@@ -27,7 +27,14 @@
     <div class="header"><h1>Week 3</h1>
         <h2>Comparing elements in XML and MEI</h2></div>
         <p> Both files have the important element 'note' which contains important information like its pitch and duration.
-        </p>
+            the note element in XML only has 2 parent elements but MEI has many elements that can contain note. In XMl, the note element comes
+            directly under the measure element and therefore the note element contains a lot of info about pitch, duration, level, whether the note
+            is dotted or not. </p>
+        <p> The staff element works a bit differently in these languages. In XMl, it is only used for music that is notated across multiple
+            staves (like a piano hand-crossing). Whereas in MEI, it contains many children elements like tempo, dynamics and fingering and thus
+            is more commonly used than the staff element in XML.</p>
+        <p>Lastly, the chord element is used in both formats. In XML, the chord element is an empty child element where '<note>' is its parent 
+            element. This is reversed in MEI where note is a child element of chord.</note></p>
     <div id="app">Verovio is loading...</div>
     <script type="module">
         import 'https://www.verovio.org/javascript/app/verovio-app.js';
